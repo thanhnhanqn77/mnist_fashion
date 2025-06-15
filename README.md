@@ -27,5 +27,7 @@ This project demonstrates how to train a **ResNet-34 model** on the Fashion MNIS
 ![Image](https://github.com/user-attachments/assets/2b4fbf6c-ad59-49d0-8a58-6e9abbc7a235)
 
 
+## 📉 Loss Function Plot
 
-
+Below is the loss function during training:
+![Image](https://github.com/user-attachments/assets/97ec0ac8-a551-434d-9f7c-5237d13ca792)
