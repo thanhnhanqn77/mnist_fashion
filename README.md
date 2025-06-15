@@ -27,7 +27,7 @@ This project demonstrates how to train a **ResNet-34 model** on the Fashion MNIS
 
 - ✅ Accuracy achieved on Kaggle: **93.15%**
 
-![Kaggle Submission Result](D:\basic_Python\basic_Python\deep learning basic\accuracy.png)
+![Kaggle Submission Result](![Accuracy](assets/accuracy.png))
 
 > The model was submitted to Kaggle and achieved 93.15% test accuracy on the Fashion MNIST dataset.
 
